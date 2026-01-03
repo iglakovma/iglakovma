@@ -1,6 +1,6 @@
 ## Hi, I'm Maks 👋
 
-ML-Ops developer / Data Sciencict 
+ML-Ops developer / Data Sciencist 
 
 
 # 💻 Tech Stack:
